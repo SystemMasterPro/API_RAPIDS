@@ -3,6 +3,7 @@ defusedxml==0.7.1
 diff-match-patch==20200713
 dj-database-url==0.5.0
 Django==3.2.5
+django-cors-headers==3.7.0
 -e git+https://github.com/django-import-export/django-import-export.git@f226bcf93ed8e1396c1c8f0a0238a574dae92662#egg=django_import_export
 djangorestframework==3.12.4
 et-xmlfile==1.1.0
